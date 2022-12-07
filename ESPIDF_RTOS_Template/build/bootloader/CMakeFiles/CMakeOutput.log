@@ -35,17 +35,17 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 Determining if the C compiler works passed with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_cef5c"
-[1/2] Building C object CMakeFiles/cmTC_cef5c.dir/testCCompiler.c.obj
-[2/2] Linking C executable cmTC_cef5c
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_9acc6"
+[1/2] Building C object CMakeFiles/cmTC_9acc6.dir/testCCompiler.c.obj
+[2/2] Linking C executable cmTC_9acc6
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_b01f3"
-[1/2] Building C object CMakeFiles/cmTC_b01f3.dir/CMakeCCompilerABI.c.obj
-[2/2] Linking C executable cmTC_b01f3
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_c4aab"
+[1/2] Building C object CMakeFiles/cmTC_c4aab.dir/CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_c4aab
 Using built-in specs.
 COLLECT_GCC=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc
 COLLECT_LTO_WRAPPER=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper
@@ -55,18 +55,18 @@ Thread model: posix
 gcc version 8.4.0 (crosstool-NG esp-2020r3) 
 COMPILER_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/bin/
 LIBRARY_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/
-COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_b01f3'
- /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccjXSht0.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_b01f3 /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_b01f3.dir/CMakeCCompilerABI.c.obj -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o
-COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_b01f3'
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_c4aab'
+ /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccAeqnXe.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_c4aab /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_c4aab.dir/CMakeCCompilerABI.c.obj -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_c4aab'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(xtensa-esp32-elf-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_b01f3"]
-  ignore line: [[1/2] Building C object CMakeFiles/cmTC_b01f3.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [[2/2] Linking C executable cmTC_b01f3]
+  ignore line: [Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_c4aab"]
+  ignore line: [[1/2] Building C object CMakeFiles/cmTC_c4aab.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [[2/2] Linking C executable cmTC_c4aab]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc]
   ignore line: [COLLECT_LTO_WRAPPER=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper]
@@ -76,27 +76,27 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 8.4.0 (crosstool-NG esp-2020r3) ]
   ignore line: [COMPILER_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/bin/]
   ignore line: [LIBRARY_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_b01f3']
-  link line: [ /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccjXSht0.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_b01f3 /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_b01f3.dir/CMakeCCompilerABI.c.obj -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_c4aab']
+  link line: [ /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccAeqnXe.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_c4aab /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_c4aab.dir/CMakeCCompilerABI.c.obj -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o]
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccjXSht0.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccAeqnXe.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
     arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_b01f3] ==> ignore
+    arg [cmTC_c4aab] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o] ==> ignore
     arg [-L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0] ==> dir [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0]
     arg [-L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc] ==> dir [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc]
     arg [-L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib] ==> dir [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib]
-    arg [CMakeFiles/cmTC_b01f3.dir/CMakeCCompilerABI.c.obj] ==> ignore
+    arg [CMakeFiles/cmTC_c4aab.dir/CMakeCCompilerABI.c.obj] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [-lc] ==> lib [c]
     arg [-lnosys] ==> lib [nosys]
@@ -117,9 +117,9 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_4d411"
-[1/2] Building C object CMakeFiles/cmTC_4d411.dir/feature_tests.c.obj
-[2/2] Linking C executable cmTC_4d411
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_d11c3"
+[1/2] Building C object CMakeFiles/cmTC_d11c3.dir/feature_tests.c.obj
+[2/2] Linking C executable cmTC_d11c3
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -131,9 +131,9 @@ Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_4d411"
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_64f13"
-[1/2] Building C object CMakeFiles/cmTC_64f13.dir/feature_tests.c.obj
-[2/2] Linking C executable cmTC_64f13
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_27d06"
+[1/2] Building C object CMakeFiles/cmTC_27d06.dir/feature_tests.c.obj
+[2/2] Linking C executable cmTC_27d06
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -145,9 +145,9 @@ Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_64f13"
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_29ad7"
-[1/2] Building C object CMakeFiles/cmTC_29ad7.dir/feature_tests.c.obj
-[2/2] Linking C executable cmTC_29ad7
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_f19c7"
+[1/2] Building C object CMakeFiles/cmTC_f19c7.dir/feature_tests.c.obj
+[2/2] Linking C executable cmTC_f19c7
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -157,17 +157,17 @@ Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_29ad7"
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_edeab"
-[1/2] Building CXX object CMakeFiles/cmTC_edeab.dir/testCXXCompiler.cxx.obj
-[2/2] Linking CXX executable cmTC_edeab
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_127f6"
+[1/2] Building CXX object CMakeFiles/cmTC_127f6.dir/testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_127f6
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_b9606"
-[1/2] Building CXX object CMakeFiles/cmTC_b9606.dir/CMakeCXXCompilerABI.cpp.obj
-[2/2] Linking CXX executable cmTC_b9606
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_0d9cc"
+[1/2] Building CXX object CMakeFiles/cmTC_0d9cc.dir/CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_0d9cc
 Using built-in specs.
 COLLECT_GCC=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++
 COLLECT_LTO_WRAPPER=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper
@@ -177,18 +177,18 @@ Thread model: posix
 gcc version 8.4.0 (crosstool-NG esp-2020r3) 
 COMPILER_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/bin/
 LIBRARY_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/
-COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_b9606'
- /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc0iCznD.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_b9606 /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_b9606.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++ -lm -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o
-COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_b9606'
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_0d9cc'
+ /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccMj1keE.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_0d9cc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_0d9cc.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++ -lm -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o
+COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_0d9cc'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(xtensa-esp32-elf-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_b9606"]
-  ignore line: [[1/2] Building CXX object CMakeFiles/cmTC_b9606.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [[2/2] Linking CXX executable cmTC_b9606]
+  ignore line: [Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_0d9cc"]
+  ignore line: [[1/2] Building CXX object CMakeFiles/cmTC_0d9cc.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [[2/2] Linking CXX executable cmTC_0d9cc]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++]
   ignore line: [COLLECT_LTO_WRAPPER=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper]
@@ -198,27 +198,27 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 8.4.0 (crosstool-NG esp-2020r3) ]
   ignore line: [COMPILER_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/bin/]
   ignore line: [LIBRARY_PATH=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/:/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_b9606']
-  link line: [ /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc0iCznD.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_b9606 /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_b9606.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++ -lm -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-mlongcalls' '-Wno-frame-address' '-v' '-o' 'cmTC_0d9cc']
+  link line: [ /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2 -plugin /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so -plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper -plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccMj1keE.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -o cmTC_0d9cc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0 -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc -L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib CMakeFiles/cmTC_0d9cc.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++ -lm -lgcc -lc -lnosys -lc -lgcc /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtend.o /Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtn.o]
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../libexec/gcc/xtensa-esp32-elf/8.4.0/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc0iCznD.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//ccMj1keE.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
     arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_b9606] ==> ignore
+    arg [cmTC_0d9cc] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib/crt0.o] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crti.o] ==> ignore
     arg [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/crtbegin.o] ==> ignore
     arg [-L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0] ==> dir [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0]
     arg [-L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc] ==> dir [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc]
     arg [-L/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib] ==> dir [/Users/sony/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/../lib/gcc/xtensa-esp32-elf/8.4.0/../../../../xtensa-esp32-elf/lib]
-    arg [CMakeFiles/cmTC_b9606.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+    arg [CMakeFiles/cmTC_0d9cc.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc] ==> lib [gcc]
@@ -241,9 +241,9 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++2a] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_f12d6"
-[1/2] Building CXX object CMakeFiles/cmTC_f12d6.dir/feature_tests.cxx.obj
-[2/2] Linking CXX executable cmTC_f12d6
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_89dbe"
+[1/2] Building CXX object CMakeFiles/cmTC_89dbe.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_89dbe
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -308,9 +308,9 @@ Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_f12d6"
 Detecting CXX [-std=c++17] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_3068e"
-[1/2] Building CXX object CMakeFiles/cmTC_3068e.dir/feature_tests.cxx.obj
-[2/2] Linking CXX executable cmTC_3068e
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_0b702"
+[1/2] Building CXX object CMakeFiles/cmTC_0b702.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_0b702
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -375,9 +375,9 @@ Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_3068e"
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_0bb17"
-[1/2] Building CXX object CMakeFiles/cmTC_0bb17.dir/feature_tests.cxx.obj
-[2/2] Linking CXX executable cmTC_0bb17
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_33a26"
+[1/2] Building CXX object CMakeFiles/cmTC_33a26.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_33a26
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -442,9 +442,9 @@ Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_0bb17"
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_0e642"
-[1/2] Building CXX object CMakeFiles/cmTC_0e642.dir/feature_tests.cxx.obj
-[2/2] Linking CXX executable cmTC_0e642
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_d26bf"
+[1/2] Building CXX object CMakeFiles/cmTC_d26bf.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_d26bf
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -509,9 +509,9 @@ Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_0e642"
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: /Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader/CMakeFiles/CMakeTmp
 
-Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_8762c"
-[1/2] Building CXX object CMakeFiles/cmTC_8762c.dir/feature_tests.cxx.obj
-[2/2] Linking CXX executable cmTC_8762c
+Run Build Command:"/Users/sony/tools/ninja/1.9.0/ninja" "cmTC_70df8"
+[1/2] Building CXX object CMakeFiles/cmTC_70df8.dir/feature_tests.cxx.obj
+[2/2] Linking CXX executable cmTC_70df8
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

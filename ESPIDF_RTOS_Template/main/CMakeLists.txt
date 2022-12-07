@@ -1,2 +1,2 @@
-idf_component_register(SRCS "multitask_main.c"
+idf_component_register(SRCS "template.c"
                     INCLUDE_DIRS ".")
