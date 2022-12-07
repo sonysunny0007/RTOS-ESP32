@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/sony/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/build/bootloader",
+    "config_file":        "/Users/sony/esp32-projects/RTOS/ESPIDF_RTOS_Template/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.1.3-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/sony/esp/esp-idf/components/efuse/Kconfig;/Users/sony/esp/esp-idf/components/esp32/Kconfig;/Users/sony/esp/esp-idf/components/esp_common/Kconfig;/Users/sony/esp/esp-idf/components/log/Kconfig;/Users/sony/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/sony/esp/esp-idf/components/bootloader/Kconfig.projbuild;/Users/sony/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/Users/sony/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/sony/esp/esp-idf/components/bootloader", "/Users/sony/esp/esp-idf/components/bootloader_support", "/Users/sony/esp/esp-idf/components/efuse", "/Users/sony/esp/esp-idf/components/esp32", "/Users/sony/esp/esp-idf/components/esp_common", "/Users/sony/esp/esp-idf/components/esp_rom", "/Users/sony/esp/esp-idf/components/esptool_py", "/Users/sony/esp/esp-idf/components/log", "/Users/sony/esp/esp-idf/components/bootloader/subproject/main", "/Users/sony/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/Users/sony/esp/esp-idf/components/partition_table", "/Users/sony/esp/esp-idf/components/soc", "/Users/sony/esp/esp-idf/components/spi_flash", "/Users/sony/esp/esp-idf/components/xtensa", "" ]
+}
