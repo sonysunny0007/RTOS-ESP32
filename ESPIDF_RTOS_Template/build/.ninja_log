@@ -905,3 +905,14 @@
 39744	39802	1670408029886324325	CMakeFiles/ESPIDF_RTOS_Template.elf.dir/project_elf_src.c.obj	c1a0d71b419e34e8
 39802	40134	1670408030215058418	ESPIDF_RTOS_Template.elf	b56b41b38eca6d07
 40134	40262	1670408030347862707	.bin_timestamp	16c8acdc2e14963c
+8	4577	1670756771107590697	build.ninja	ba5b0dd68dcbd408
+33	192	0	esp-idf/partition_table/CMakeFiles/partition_table	106b640c23553058
+192	253	1670408019995091701	bootloader-prefix/src/bootloader-stamp/bootloader-build	ea99a50955f1d705
+192	253	1670408019995091701	bootloader/bootloader.elf	ea99a50955f1d705
+192	253	1670408019995091701	bootloader/bootloader.bin	ea99a50955f1d705
+192	253	1670408019995091701	bootloader/bootloader.map	ea99a50955f1d705
+33	397	1670756771570818320	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_app_desc.c.obj	f49cddc622e84b90
+397	486	1670756771660280068	esp-idf/app_update/libapp_update.a	d83e9232d8a65a27
+486	2155	1670756773313510653	esp-idf/esp32/ld/esp32.project.ld	4964b1b2ee341fd9
+2156	2633	1670756773801756105	ESPIDF_RTOS_Template.elf	b56b41b38eca6d07
+2634	2830	1670756774004236890	.bin_timestamp	16c8acdc2e14963c
